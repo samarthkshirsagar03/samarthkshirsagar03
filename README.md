@@ -27,7 +27,7 @@ role: Front-End Developer
 education: Second Year Computer Engineering Student, Indira College of Engineering and Management, Pune
 currently_working_on: AI Resume Scanner App & Food Donation System
 currently_learning: AI / Machine Learning, C++
-ask_me_about: HTML, CSS, JavaScript, Python, C, Java (learning)
+ask_me_about: HTML, CSS, JavaScript, Python, C++, Java (learning)
 fun_fact: Turning what I learn into real projects, one app at a time
 ```
 
